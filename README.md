@@ -7,3 +7,5 @@ For this project I am just going to be making  a basic recipe website. This webs
 
 After Project Summary:
 This project was pretty straight forward and easy, I spent most of my time trying to come up with food choices, ingredients, and steps lol. I did learn that I cant just turn every picture into a jpg though.. So I just found jpg pictures instead of using the others... I need to learn how to implement those in the future. Also, I probably should've put alt's on the images.. NEXT TIME!
+
+I Guess My Project isn't done yet! Now I'm going to style the website using my new powers of CSS.
