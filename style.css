@@ -1,6 +1,37 @@
 img{
     object-fit:cover;
-    height: 200px;
-    width: 200px;
-    border: solid 1px #CCC"
+    height: 300px;
+    width: 300px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.chef{
+    height: 400px;
+    width: 400px; 
+}
+p,
+h1,
+h3{
+    text-align: center;
+}
+h1{
+    font-size: 75px;
+    color:rgb(40, 42, 44)
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 15px;
+    font-style: italic;
+}
+a{
+    color: rgb(8, 137, 243);
+}
+hr.solid{
+    border-top: 3px solid #070000;
+}
+hr.solid.smaller{
+    border-top: 1px solid#070000;
 }
